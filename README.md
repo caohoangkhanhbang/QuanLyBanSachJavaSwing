@@ -1,5 +1,5 @@
 <h2 align="center">🛠 Chương trình quản lý cửa hàng bán sách 🛠</h2>
-<h6 align="center">⚔  Công nghệ sử dụng: Java, SqlServer Database ⚔ </h6>
+<h6 align="center">⚔  Công nghệ sử dụng: Java Swing, SqlServer Database ⚔ </h6>
 
 <h3 align="left">I. Mục tiêu và lý do tại sao lại chọn đề tài này</h3>
 <h4  align="left"> 🖋 Kinh doanh sách, văn phòng phẩm có khả năng đem lại nguồn lợi nhuận khá ổn định,
